@@ -22,23 +22,26 @@ disability_by_state <-
     mutate(Tract10 = as.numeric(tract)*100) %>% 
     select(-drop, -drop2, -tract) %>% 
     rename(pop_w_disab = HC02_EST_VC01) %>% 
-    unite(Tract10, County, Tract10)
+    unite(Tract10, County, Tract10) %>% 
+    arrange(Tract10)
     
-
+lapply(disability_by_state[1], as.String())
 
 HTC_by_state <- 
   read.csv("all_state_HTC.csv", stringsAsFactors = FALSE) %>% 
   select(State_name, County_name10, MRR20pctthreshold, TotPopACS17, Tract10) %>% 
   rename(Flag = MRR20pctthreshold) %>% 
-  unite(Tract10, County_name10, Tract10)
+  unite(Tract10, County_name10, Tract10) %>% 
+  arrange(Tract10)
+
 
 HTC_by_state %>% View()
 
-disability_by_state %>% View()
+disability_by_state[1]
 
 disable_nrows<- nrow(disability_by_state)
 htc_nrows<- nrow(HTC_by_state)
 
 
-joined_data <- left_join(HTC_by_state, disability_by_state, by = "Tract10")
+joined_data <- right_join(HTC_by_state, disability_by_state, by = c("Tract10"))
 joined_data %>% View()
