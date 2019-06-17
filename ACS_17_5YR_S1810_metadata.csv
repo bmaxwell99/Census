@@ -1,0 +1,417 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Total civilian noninstitutionalized population
+HC01_MOE_VC01,Total; Margin of Error; Total civilian noninstitutionalized population
+HC02_EST_VC01,With a disability; Estimate; Total civilian noninstitutionalized population
+HC02_MOE_VC01,With a disability; Margin of Error; Total civilian noninstitutionalized population
+HC03_EST_VC01,Percent with a disability; Estimate; Total civilian noninstitutionalized population
+HC03_MOE_VC01,Percent with a disability; Margin of Error; Total civilian noninstitutionalized population
+HC01_EST_VC03,Total; Estimate; SEX - Male
+HC01_MOE_VC03,Total; Margin of Error; SEX - Male
+HC02_EST_VC03,With a disability; Estimate; SEX - Male
+HC02_MOE_VC03,With a disability; Margin of Error; SEX - Male
+HC03_EST_VC03,Percent with a disability; Estimate; SEX - Male
+HC03_MOE_VC03,Percent with a disability; Margin of Error; SEX - Male
+HC01_EST_VC04,Total; Estimate; SEX - Female
+HC01_MOE_VC04,Total; Margin of Error; SEX - Female
+HC02_EST_VC04,With a disability; Estimate; SEX - Female
+HC02_MOE_VC04,With a disability; Margin of Error; SEX - Female
+HC03_EST_VC04,Percent with a disability; Estimate; SEX - Female
+HC03_MOE_VC04,Percent with a disability; Margin of Error; SEX - Female
+HC01_EST_VC07,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+HC01_MOE_VC07,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+HC02_EST_VC07,With a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+HC02_MOE_VC07,With a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+HC03_EST_VC07,Percent with a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+HC03_MOE_VC07,Percent with a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - White alone
+HC01_EST_VC08,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+HC01_MOE_VC08,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+HC02_EST_VC08,With a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+HC02_MOE_VC08,With a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+HC03_EST_VC08,Percent with a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+HC03_MOE_VC08,Percent with a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Black or African American alone
+HC01_EST_VC09,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+HC01_MOE_VC09,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+HC02_EST_VC09,With a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+HC02_MOE_VC09,With a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+HC03_EST_VC09,Percent with a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+HC03_MOE_VC09,Percent with a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - American Indian and Alaska Native alone
+HC01_EST_VC10,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+HC01_MOE_VC10,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+HC02_EST_VC10,With a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+HC02_MOE_VC10,With a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+HC03_EST_VC10,Percent with a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+HC03_MOE_VC10,Percent with a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Asian alone
+HC01_EST_VC11,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+HC01_MOE_VC11,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+HC02_EST_VC11,With a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+HC02_MOE_VC11,With a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+HC03_EST_VC11,Percent with a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+HC03_MOE_VC11,Percent with a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Native Hawaiian and Other Pacific Islander alone
+HC01_EST_VC12,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+HC01_MOE_VC12,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+HC02_EST_VC12,With a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+HC02_MOE_VC12,With a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+HC03_EST_VC12,Percent with a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+HC03_MOE_VC12,Percent with a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Some other race alone
+HC01_EST_VC13,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_MOE_VC13,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_EST_VC13,With a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_MOE_VC13,With a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC03_EST_VC13,Percent with a disability; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC03_MOE_VC13,Percent with a disability; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_EST_VC15,"Total; Estimate; White alone, not Hispanic or Latino"
+HC01_MOE_VC15,"Total; Margin of Error; White alone, not Hispanic or Latino"
+HC02_EST_VC15,"With a disability; Estimate; White alone, not Hispanic or Latino"
+HC02_MOE_VC15,"With a disability; Margin of Error; White alone, not Hispanic or Latino"
+HC03_EST_VC15,"Percent with a disability; Estimate; White alone, not Hispanic or Latino"
+HC03_MOE_VC15,"Percent with a disability; Margin of Error; White alone, not Hispanic or Latino"
+HC01_EST_VC16,Total; Estimate; Hispanic or Latino (of any race)
+HC01_MOE_VC16,Total; Margin of Error; Hispanic or Latino (of any race)
+HC02_EST_VC16,With a disability; Estimate; Hispanic or Latino (of any race)
+HC02_MOE_VC16,With a disability; Margin of Error; Hispanic or Latino (of any race)
+HC03_EST_VC16,Percent with a disability; Estimate; Hispanic or Latino (of any race)
+HC03_MOE_VC16,Percent with a disability; Margin of Error; Hispanic or Latino (of any race)
+HC01_EST_VC19,Total; Estimate; AGE - Under 5 years
+HC01_MOE_VC19,Total; Margin of Error; AGE - Under 5 years
+HC02_EST_VC19,With a disability; Estimate; AGE - Under 5 years
+HC02_MOE_VC19,With a disability; Margin of Error; AGE - Under 5 years
+HC03_EST_VC19,Percent with a disability; Estimate; AGE - Under 5 years
+HC03_MOE_VC19,Percent with a disability; Margin of Error; AGE - Under 5 years
+HC01_EST_VC20,Total; Estimate; AGE - 5 to 17 years
+HC01_MOE_VC20,Total; Margin of Error; AGE - 5 to 17 years
+HC02_EST_VC20,With a disability; Estimate; AGE - 5 to 17 years
+HC02_MOE_VC20,With a disability; Margin of Error; AGE - 5 to 17 years
+HC03_EST_VC20,Percent with a disability; Estimate; AGE - 5 to 17 years
+HC03_MOE_VC20,Percent with a disability; Margin of Error; AGE - 5 to 17 years
+HC01_EST_VC21,Total; Estimate; AGE - 18 to 34 years
+HC01_MOE_VC21,Total; Margin of Error; AGE - 18 to 34 years
+HC02_EST_VC21,With a disability; Estimate; AGE - 18 to 34 years
+HC02_MOE_VC21,With a disability; Margin of Error; AGE - 18 to 34 years
+HC03_EST_VC21,Percent with a disability; Estimate; AGE - 18 to 34 years
+HC03_MOE_VC21,Percent with a disability; Margin of Error; AGE - 18 to 34 years
+HC01_EST_VC22,Total; Estimate; AGE - 35 to 64 years
+HC01_MOE_VC22,Total; Margin of Error; AGE - 35 to 64 years
+HC02_EST_VC22,With a disability; Estimate; AGE - 35 to 64 years
+HC02_MOE_VC22,With a disability; Margin of Error; AGE - 35 to 64 years
+HC03_EST_VC22,Percent with a disability; Estimate; AGE - 35 to 64 years
+HC03_MOE_VC22,Percent with a disability; Margin of Error; AGE - 35 to 64 years
+HC01_EST_VC23,Total; Estimate; AGE - 65 to 74 years
+HC01_MOE_VC23,Total; Margin of Error; AGE - 65 to 74 years
+HC02_EST_VC23,With a disability; Estimate; AGE - 65 to 74 years
+HC02_MOE_VC23,With a disability; Margin of Error; AGE - 65 to 74 years
+HC03_EST_VC23,Percent with a disability; Estimate; AGE - 65 to 74 years
+HC03_MOE_VC23,Percent with a disability; Margin of Error; AGE - 65 to 74 years
+HC01_EST_VC24,Total; Estimate; AGE - 75 years and over
+HC01_MOE_VC24,Total; Margin of Error; AGE - 75 years and over
+HC02_EST_VC24,With a disability; Estimate; AGE - 75 years and over
+HC02_MOE_VC24,With a disability; Margin of Error; AGE - 75 years and over
+HC03_EST_VC24,Percent with a disability; Estimate; AGE - 75 years and over
+HC03_MOE_VC24,Percent with a disability; Margin of Error; AGE - 75 years and over
+HC01_EST_VC27,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty
+HC01_MOE_VC27,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty
+HC02_EST_VC27,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty
+HC02_MOE_VC27,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty
+HC03_EST_VC27,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty
+HC03_MOE_VC27,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty
+HC01_EST_VC28,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years
+HC01_MOE_VC28,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years
+HC02_EST_VC28,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years
+HC02_MOE_VC28,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years
+HC03_EST_VC28,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years
+HC03_MOE_VC28,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years
+HC01_EST_VC29,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population under 5 years
+HC01_MOE_VC29,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population under 5 years
+HC02_EST_VC29,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population under 5 years
+HC02_MOE_VC29,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population under 5 years
+HC03_EST_VC29,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population under 5 years
+HC03_MOE_VC29,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population under 5 years
+HC01_EST_VC30,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population 5 to 17 years
+HC01_MOE_VC30,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population 5 to 17 years
+HC02_EST_VC30,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population 5 to 17 years
+HC02_MOE_VC30,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population 5 to 17 years
+HC03_EST_VC30,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population 5 to 17 years
+HC03_MOE_VC30,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population under 18 years - Population 5 to 17 years
+HC01_EST_VC31,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years
+HC01_MOE_VC31,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years
+HC02_EST_VC31,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years
+HC02_MOE_VC31,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years
+HC03_EST_VC31,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years
+HC03_MOE_VC31,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years
+HC01_EST_VC32,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_MOE_VC32,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_EST_VC32,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_MOE_VC32,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_EST_VC32,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_MOE_VC32,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_EST_VC33,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_MOE_VC33,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_EST_VC33,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_MOE_VC33,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_EST_VC33,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_MOE_VC33,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_EST_VC34,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over
+HC01_MOE_VC34,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over
+HC02_EST_VC34,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over
+HC02_MOE_VC34,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over
+HC03_EST_VC34,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over
+HC03_MOE_VC34,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over
+HC01_EST_VC35,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_MOE_VC35,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_EST_VC35,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_MOE_VC35,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_EST_VC35,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_MOE_VC35,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_EST_VC36,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 75 years and over
+HC01_MOE_VC36,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 75 years and over
+HC02_EST_VC36,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 75 years and over
+HC02_MOE_VC36,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 75 years and over
+HC03_EST_VC36,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 75 years and over
+HC03_MOE_VC36,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a hearing difficulty - Population 65 years and over - Population 75 years and over
+HC01_EST_VC37,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty
+HC01_MOE_VC37,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty
+HC02_EST_VC37,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty
+HC02_MOE_VC37,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty
+HC03_EST_VC37,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty
+HC03_MOE_VC37,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty
+HC01_EST_VC38,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years
+HC01_MOE_VC38,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years
+HC02_EST_VC38,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years
+HC02_MOE_VC38,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years
+HC03_EST_VC38,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years
+HC03_MOE_VC38,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years
+HC01_EST_VC39,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population under 5 years
+HC01_MOE_VC39,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population under 5 years
+HC02_EST_VC39,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population under 5 years
+HC02_MOE_VC39,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population under 5 years
+HC03_EST_VC39,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population under 5 years
+HC03_MOE_VC39,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population under 5 years
+HC01_EST_VC40,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population 5 to 17 years
+HC01_MOE_VC40,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population 5 to 17 years
+HC02_EST_VC40,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population 5 to 17 years
+HC02_MOE_VC40,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population 5 to 17 years
+HC03_EST_VC40,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population 5 to 17 years
+HC03_MOE_VC40,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population under 18 years - Population 5 to 17 years
+HC01_EST_VC41,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years
+HC01_MOE_VC41,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years
+HC02_EST_VC41,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years
+HC02_MOE_VC41,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years
+HC03_EST_VC41,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years
+HC03_MOE_VC41,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years
+HC01_EST_VC42,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_MOE_VC42,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_EST_VC42,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_MOE_VC42,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_EST_VC42,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_MOE_VC42,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_EST_VC43,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_MOE_VC43,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_EST_VC43,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_MOE_VC43,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_EST_VC43,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_MOE_VC43,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_EST_VC44,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over
+HC01_MOE_VC44,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over
+HC02_EST_VC44,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over
+HC02_MOE_VC44,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over
+HC03_EST_VC44,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over
+HC03_MOE_VC44,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over
+HC01_EST_VC45,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_MOE_VC45,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_EST_VC45,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_MOE_VC45,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_EST_VC45,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_MOE_VC45,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_EST_VC46,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 75 years and over
+HC01_MOE_VC46,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 75 years and over
+HC02_EST_VC46,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 75 years and over
+HC02_MOE_VC46,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 75 years and over
+HC03_EST_VC46,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 75 years and over
+HC03_MOE_VC46,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a vision difficulty - Population 65 years and over - Population 75 years and over
+HC01_EST_VC47,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty
+HC01_MOE_VC47,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty
+HC02_EST_VC47,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty
+HC02_MOE_VC47,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty
+HC03_EST_VC47,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty
+HC03_MOE_VC47,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty
+HC01_EST_VC48,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population under 18 years
+HC01_MOE_VC48,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population under 18 years
+HC02_EST_VC48,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population under 18 years
+HC02_MOE_VC48,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population under 18 years
+HC03_EST_VC48,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population under 18 years
+HC03_MOE_VC48,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population under 18 years
+HC01_EST_VC49,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years
+HC01_MOE_VC49,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years
+HC02_EST_VC49,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years
+HC02_MOE_VC49,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years
+HC03_EST_VC49,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years
+HC03_MOE_VC49,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years
+HC01_EST_VC50,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_MOE_VC50,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_EST_VC50,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_MOE_VC50,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_EST_VC50,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_MOE_VC50,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_EST_VC51,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_MOE_VC51,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_EST_VC51,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_MOE_VC51,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_EST_VC51,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_MOE_VC51,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_EST_VC52,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over
+HC01_MOE_VC52,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over
+HC02_EST_VC52,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over
+HC02_MOE_VC52,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over
+HC03_EST_VC52,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over
+HC03_MOE_VC52,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over
+HC01_EST_VC53,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_MOE_VC53,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_EST_VC53,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_MOE_VC53,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_EST_VC53,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_MOE_VC53,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_EST_VC54,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 75 years and over
+HC01_MOE_VC54,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 75 years and over
+HC02_EST_VC54,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 75 years and over
+HC02_MOE_VC54,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 75 years and over
+HC03_EST_VC54,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 75 years and over
+HC03_MOE_VC54,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a cognitive difficulty - Population 65 years and over - Population 75 years and over
+HC01_EST_VC55,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty
+HC01_MOE_VC55,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty
+HC02_EST_VC55,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty
+HC02_MOE_VC55,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty
+HC03_EST_VC55,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty
+HC03_MOE_VC55,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty
+HC01_EST_VC56,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population under 18 years
+HC01_MOE_VC56,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population under 18 years
+HC02_EST_VC56,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population under 18 years
+HC02_MOE_VC56,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population under 18 years
+HC03_EST_VC56,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population under 18 years
+HC03_MOE_VC56,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population under 18 years
+HC01_EST_VC57,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years
+HC01_MOE_VC57,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years
+HC02_EST_VC57,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years
+HC02_MOE_VC57,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years
+HC03_EST_VC57,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years
+HC03_MOE_VC57,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years
+HC01_EST_VC58,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_MOE_VC58,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_EST_VC58,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_MOE_VC58,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_EST_VC58,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_MOE_VC58,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_EST_VC59,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_MOE_VC59,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_EST_VC59,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_MOE_VC59,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_EST_VC59,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_MOE_VC59,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_EST_VC60,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over
+HC01_MOE_VC60,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over
+HC02_EST_VC60,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over
+HC02_MOE_VC60,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over
+HC03_EST_VC60,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over
+HC03_MOE_VC60,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over
+HC01_EST_VC61,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_MOE_VC61,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_EST_VC61,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_MOE_VC61,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_EST_VC61,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_MOE_VC61,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_EST_VC62,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 75 years and over
+HC01_MOE_VC62,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 75 years and over
+HC02_EST_VC62,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 75 years and over
+HC02_MOE_VC62,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 75 years and over
+HC03_EST_VC62,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 75 years and over
+HC03_MOE_VC62,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an ambulatory difficulty - Population 65 years and over - Population 75 years and over
+HC01_EST_VC63,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty
+HC01_MOE_VC63,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty
+HC02_EST_VC63,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty
+HC02_MOE_VC63,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty
+HC03_EST_VC63,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty
+HC03_MOE_VC63,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty
+HC01_EST_VC64,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population under 18 years
+HC01_MOE_VC64,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population under 18 years
+HC02_EST_VC64,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population under 18 years
+HC02_MOE_VC64,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population under 18 years
+HC03_EST_VC64,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population under 18 years
+HC03_MOE_VC64,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population under 18 years
+HC01_EST_VC65,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years
+HC01_MOE_VC65,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years
+HC02_EST_VC65,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years
+HC02_MOE_VC65,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years
+HC03_EST_VC65,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years
+HC03_MOE_VC65,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years
+HC01_EST_VC66,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_MOE_VC66,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_EST_VC66,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_MOE_VC66,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_EST_VC66,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_MOE_VC66,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_EST_VC67,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_MOE_VC67,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_EST_VC67,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_MOE_VC67,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_EST_VC67,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_MOE_VC67,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_EST_VC68,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over
+HC01_MOE_VC68,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over
+HC02_EST_VC68,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over
+HC02_MOE_VC68,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over
+HC03_EST_VC68,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over
+HC03_MOE_VC68,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over
+HC01_EST_VC69,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_MOE_VC69,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_EST_VC69,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_MOE_VC69,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_EST_VC69,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_MOE_VC69,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_EST_VC70,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 75 years and over
+HC01_MOE_VC70,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 75 years and over
+HC02_EST_VC70,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 75 years and over
+HC02_MOE_VC70,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 75 years and over
+HC03_EST_VC70,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 75 years and over
+HC03_MOE_VC70,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With a self-care difficulty - Population 65 years and over - Population 75 years and over
+HC01_EST_VC71,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty
+HC01_MOE_VC71,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty
+HC02_EST_VC71,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty
+HC02_MOE_VC71,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty
+HC03_EST_VC71,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty
+HC03_MOE_VC71,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty
+HC01_EST_VC72,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years
+HC01_MOE_VC72,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years
+HC02_EST_VC72,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years
+HC02_MOE_VC72,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years
+HC03_EST_VC72,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years
+HC03_MOE_VC72,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years
+HC01_EST_VC73,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_MOE_VC73,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_EST_VC73,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC02_MOE_VC73,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_EST_VC73,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC03_MOE_VC73,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 18 to 34 years
+HC01_EST_VC74,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_MOE_VC74,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_EST_VC74,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC02_MOE_VC74,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_EST_VC74,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC03_MOE_VC74,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 18 to 64 years - Population 35 to 64 years
+HC01_EST_VC75,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over
+HC01_MOE_VC75,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over
+HC02_EST_VC75,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over
+HC02_MOE_VC75,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over
+HC03_EST_VC75,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over
+HC03_MOE_VC75,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over
+HC01_EST_VC76,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_MOE_VC76,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_EST_VC76,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 65 to 74 years
+HC02_MOE_VC76,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_EST_VC76,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 65 to 74 years
+HC03_MOE_VC76,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 65 to 74 years
+HC01_EST_VC77,Total; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 75 years and over
+HC01_MOE_VC77,Total; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 75 years and over
+HC02_EST_VC77,With a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 75 years and over
+HC02_MOE_VC77,With a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 75 years and over
+HC03_EST_VC77,Percent with a disability; Estimate; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 75 years and over
+HC03_MOE_VC77,Percent with a disability; Margin of Error; DISABILITY TYPE BY DETAILED AGE - With an independent living difficulty - Population 65 years and over - Population 75 years and over
