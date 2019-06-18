@@ -21,27 +21,50 @@ disability_by_state <-
     separate(tract, c('drop', 'drop2', "tract"), sep = ' ') %>%
     mutate(Tract10 = as.numeric(tract)*100) %>% 
     select(-drop, -drop2, -tract) %>% 
+    mutate(County = trimws(as.character(County))) %>% 
     rename(pop_w_disab = HC02_EST_VC01) %>% 
-    unite(Tract10, County, Tract10) %>% 
-    arrange(Tract10)
+    unite(Tract10, state, County, Tract10, sep = ",") %>% 
+    arrange(Tract10) %>% 
+    mutate(Tract10 = trimws(as.character(Tract10)))
     
-lapply(disability_by_state[1], as.String())
+    
 
 HTC_by_state <- 
   read.csv("all_state_HTC.csv", stringsAsFactors = FALSE) %>% 
   select(State_name, County_name10, MRR20pctthreshold, TotPopACS17, Tract10) %>% 
   rename(Flag = MRR20pctthreshold) %>% 
-  unite(Tract10, County_name10, Tract10) %>% 
-  arrange(Tract10)
+  mutate(County_name10 = replace(County_name10, County_name10 == 'DoÃ±a Ana County', 'Doña Ana County')) %>% 
+  unite(Tract10, State_name, County_name10, Tract10, sep = ",") %>% 
+  arrange(Tract10) %>% 
+  mutate(Tract10 = trimws(as.character(Tract10)))
 
+joined_data <- inner_join(HTC_by_state, disability_by_state, by = c("Tract10"))
 
-HTC_by_state %>% View()
+HTC_Joined_Data <-
+  joined_data %>% 
+  filter(Flag == 1) %>%
+  select(-Flag) 
+  
+HTC_summary_stats <-
+  HTC_Joined_Data %>% 
+  separate(Tract10, c('State', 'County', "Tract"), sep = ',') %>% 
+  group_by(State) %>% 
+  summarise(HTC_W_Disabilty = sum(as.numeric(pop_w_disab))) %>% 
+  mutate(State = trimws(as.character(State)))
 
-disability_by_state[1]
+df3 <-
+  read.csv("All_States_Total_Disab.csv", stringsAsFactors = FALSE) %>% 
+  rename(Total_Pop_W_Disab = HC02_EST_VC01) %>% 
+  rename(State = GEO.display.label) %>% 
+  filter(State != 'Puerto Rico') %>% 
+  filter(State != 'Geography') %>% 
+  select(State, Total_Pop_W_Disab) %>% 
+  mutate(State = trimws(as.character(State)))
 
-disable_nrows<- nrow(disability_by_state)
-htc_nrows<- nrow(HTC_by_state)
+final_data <- inner_join(df3, HTC_summary_stats, by = 'State') 
 
+final_data <-
+  final_data %>% 
+  mutate(percentage = round(as.numeric(HTC_W_Disabilty) / as.numeric(Total_Pop_W_Disab) * 100, digits = 1))
 
-joined_data <- right_join(HTC_by_state, disability_by_state, by = c("Tract10"))
-joined_data %>% View()
+write.csv(final_data, 'Final_Data.csv')
