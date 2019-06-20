@@ -3,7 +3,7 @@ library(dplyr)
 library(lubridate)
 library(tidyr)
 
-
+setwd("C:/Users/dark_/Documents/NDRN/Census")
 
 #Part one of source data pulled from ACS 5 year estimate, broken down by census tract in each county 
 df1 <- read.csv("AL_NY_Census.csv", stringsAsFactors = FALSE)  %>% 
@@ -20,6 +20,7 @@ uni_data <- rbind(df1, df2)
 
 disability_by_state <- 
     uni_data %>% 
+    #filtering this line out now prevents "coerced NA" error, even though the line will eventually get removed by the inner_join
     filter(GEO.display.label != 'Geography') %>% 
     #breaks apart the Geo column into it's three components
     separate(GEO.display.label, c('tract', 'County', 'state'), sep = ',') %>% 
@@ -30,8 +31,8 @@ disability_by_state <-
     select(-drop, -drop2, -tract) %>% 
     mutate(County = trimws(as.character(County))) %>% 
     rename(pop_w_disab = HC02_EST_VC01) %>% 
-    #I realized later on the census tracts were not unique accross the nation, the following joins the reformatted tract number 
-    #with county and state
+    #I realized later on that the census tracts were not unique accross the nation, the following joins the reformatted tract 
+    #number with county and state
     unite(Tract10, state, County, Tract10, sep = ",") %>% 
     arrange(Tract10) %>% 
     mutate(Tract10 = trimws(as.character(Tract10)))
@@ -45,7 +46,7 @@ HTC_by_state <-
   #Dona Ana County was labelled using different characters in the two data sets, this normalized them one spelling
   mutate(County_name10 = replace(County_name10, County_name10 == 'DoÃ±a Ana County', 'Doña Ana County')) %>% 
   #I realized later on the census tracts were not unique accross the nation, the following joins the tract number 
-  #with county and state
+  #with county and state to create a unique ID
   unite(Tract10, State_name, County_name10, Tract10, sep = ",") %>% 
   arrange(Tract10) %>% 
   mutate(Tract10 = trimws(as.character(Tract10)))
@@ -69,11 +70,8 @@ HTC_summary_stats <-
 
 #source data pulled from ACS 5 year estimate, the population of people with a disability in each state
 df3 <-
-  read.csv("All_States_Total_Disab.csv", stringsAsFactors = FALSE) %>% 
-  rename(Total_Pop_W_Disab = HC02_EST_VC01) %>% 
-  rename(State = GEO.display.label) %>% 
-  filter(State != 'Puerto Rico') %>% 
-  filter(State != 'Geography') %>% 
+  read.csv("All_States_Total_Disab.csv", stringsAsFactors = FALSE) %>%
+  rename(State = GEO.display.label, Total_Pop_W_Disab = HC02_EST_VC01) %>% 
   select(State, Total_Pop_W_Disab) %>% 
   mutate(State = trimws(as.character(State)))
 
